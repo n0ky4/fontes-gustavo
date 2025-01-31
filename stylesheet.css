@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'fontes_gustavoregular';
-    src: url('fontes-gustavo-webfont.woff2') format('woff2'),
-        url('fontes-gustavo-webfont.woff') format('woff');
+    font-family: 'fontes gustavo';
+    src: url('https://github.com/n0ky4/fontes-gustavo/raw/refs/heads/main/fontes-gustavo-webfont.woff2') format('woff2'),
+        url('https://github.com/n0ky4/fontes-gustavo/raw/refs/heads/main/fontes-gustavo-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
